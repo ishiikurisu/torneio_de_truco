@@ -1,4 +1,4 @@
-<svg height="320" width="632" xmlns="http://www.w3.org/2000/svg">
+<svg height="320" width="1008" xmlns="http://www.w3.org/2000/svg">
     <style>line, path, circle,rect,polygon {
                           stroke: black;
                           stroke-width: 2;
@@ -87,101 +87,101 @@
             <circle class="bg_filled" cx="4" cy="4" r="3"></circle>
         </marker>
     </defs>
-    <rect class="backdrop" height="320" width="632" x="0" y="0"></rect>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="4" y="8"></rect>
+    <rect class="backdrop" height="320" width="1008" x="0" y="0"></rect>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="4" y="8"></rect>
     <text class="" x="18" y="28">$PART1</text>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="276" y="8"></rect>
-    <text class="" x="290" y="28">$CHAMP</text>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="548" y="8"></rect>
-    <text class="" x="562" y="28">$PART5</text>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="4" y="104"></rect>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="412" y="8"></rect>
+    <text class="" x="426" y="28">$CHAMP</text>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="828" y="8"></rect>
+    <text class="" x="842" y="28">$PART5</text>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="4" y="104"></rect>
     <text class="" x="18" y="124">$PART2</text>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="548" y="104"></rect>
-    <text class="" x="562" y="124">$PART6</text>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="4" y="168"></rect>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="828" y="104"></rect>
+    <text class="" x="842" y="124">$PART6</text>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="4" y="168"></rect>
     <text class="" x="18" y="188">$PART3</text>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="548" y="168"></rect>
-    <text class="" x="562" y="188">$PART7</text>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="4" y="264"></rect>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="828" y="168"></rect>
+    <text class="" x="842" y="188">$PART7</text>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="4" y="264"></rect>
     <text class="" x="18" y="284">$PART4</text>
-    <rect class="solid nofill " height="32" rx="4" width="72" x="548" y="264"></rect>
-    <text class="" x="562" y="284">$PART8</text>
-    <text class="" x="138" y="76">$SEMI1</text>
-    <text class="" x="434" y="76">$SEMI3</text>
-    <text class="" x="218" y="156">$FINL1</text>
-    <text class="" x="354" y="156">$FINL2</text>
-    <text class="" x="138" y="236">$SEMI2</text>
-    <text class="" x="434" y="236">$SEMI4</text>
+    <rect class="solid nofill " height="32" rx="4" width="168" x="828" y="264"></rect>
+    <text class="" x="842" y="284">$PART8</text>
+    <text class="" x="178" y="76">$SEMI1</text>
+    <text class="" x="674" y="76">$SEMI3</text>
+    <text class="" x="314" y="156">$FINAL1</text>
+    <text class="" x="546" y="156">$FINAL2</text>
+    <text class="" x="178" y="236">$SEMI2</text>
+    <text class="" x="674" y="236">$SEMI4</text>
     <g>
-        <line class="solid" x1="36" x2="36" y1="48" y2="96"></line>
-        <path class="nofill" d="M 128,56 A 4,4 0,0,0 124,60"></path>
-        <line class="solid" x1="124" x2="124" y1="60" y2="84"></line>
-        <line class="solid" x1="128" x2="192" y1="56" y2="56"></line>
-        <path class="nofill" d="M 192,56 A 4,4 0,0,1 196,60"></path>
-        <line class="solid" x1="196" x2="196" y1="60" y2="84"></line>
-        <line class="solid" x1="36" x2="124" y1="72" y2="72"></line>
-        <path class="nofill" d="M 124,84 A 4,4 0,0,0 128,88"></path>
-        <line class="solid" x1="128" x2="192" y1="88" y2="88"></line>
-        <path class="nofill" d="M 196,84 A 4,4 0,0,1 192,88"></path>
+        <line class="solid" x1="92" x2="92" y1="48" y2="96"></line>
+        <path class="nofill" d="M 168,56 A 4,4 0,0,0 164,60"></path>
+        <line class="solid" x1="164" x2="164" y1="60" y2="84"></line>
+        <line class="solid" x1="168" x2="328" y1="56" y2="56"></line>
+        <path class="nofill" d="M 328,56 A 4,4 0,0,1 332,60"></path>
+        <line class="solid" x1="332" x2="332" y1="60" y2="84"></line>
+        <line class="solid" x1="92" x2="164" y1="72" y2="72"></line>
+        <path class="nofill" d="M 164,84 A 4,4 0,0,0 168,88"></path>
+        <line class="solid" x1="168" x2="328" y1="88" y2="88"></line>
+        <path class="nofill" d="M 332,84 A 4,4 0,0,1 328,88"></path>
     </g>
     <g>
-        <line class="solid" x1="308" x2="308" y1="48" y2="152"></line>
-        <path class="nofill" d="M 344,136 A 4,4 0,0,0 340,140"></path>
-        <line class="solid" x1="340" x2="340" y1="140" y2="164"></line>
-        <line class="solid" x1="344" x2="408" y1="136" y2="136"></line>
-        <path class="nofill" d="M 408,136 A 4,4 0,0,1 412,140"></path>
-        <line class="solid" x1="412" x2="412" y1="140" y2="164"></line>
-        <line class="solid" x1="276" x2="340" y1="152" y2="152"></line>
-        <line class="solid" x1="412" x2="460" y1="152" y2="152"></line>
-        <path class="nofill" d="M 340,164 A 4,4 0,0,0 344,168"></path>
-        <line class="solid" x1="344" x2="408" y1="168" y2="168"></line>
-        <path class="nofill" d="M 412,164 A 4,4 0,0,1 408,168"></path>
-        <line class="solid" x1="156" x2="156" y1="96" y2="208"></line>
-        <path class="nofill" d="M 208,136 A 4,4 0,0,0 204,140"></path>
-        <line class="solid" x1="204" x2="204" y1="140" y2="164"></line>
-        <line class="solid" x1="208" x2="272" y1="136" y2="136"></line>
-        <path class="nofill" d="M 272,136 A 4,4 0,0,1 276,140"></path>
-        <line class="solid" x1="276" x2="276" y1="140" y2="164"></line>
-        <line class="solid" x1="156" x2="204" y1="152" y2="152"></line>
-        <path class="nofill" d="M 204,164 A 4,4 0,0,0 208,168"></path>
-        <line class="solid" x1="208" x2="272" y1="168" y2="168"></line>
-        <path class="nofill" d="M 276,164 A 4,4 0,0,1 272,168"></path>
-        <line class="solid" x1="460" x2="460" y1="96" y2="208"></line>
+        <line class="solid" x1="500" x2="500" y1="48" y2="152"></line>
+        <path class="nofill" d="M 536,136 A 4,4 0,0,0 532,140"></path>
+        <line class="solid" x1="532" x2="532" y1="140" y2="164"></line>
+        <line class="solid" x1="536" x2="696" y1="136" y2="136"></line>
+        <path class="nofill" d="M 696,136 A 4,4 0,0,1 700,140"></path>
+        <line class="solid" x1="700" x2="700" y1="140" y2="164"></line>
+        <line class="solid" x1="468" x2="532" y1="152" y2="152"></line>
+        <line class="solid" x1="700" x2="748" y1="152" y2="152"></line>
+        <path class="nofill" d="M 532,164 A 4,4 0,0,0 536,168"></path>
+        <line class="solid" x1="536" x2="696" y1="168" y2="168"></line>
+        <path class="nofill" d="M 700,164 A 4,4 0,0,1 696,168"></path>
+        <line class="solid" x1="252" x2="252" y1="96" y2="208"></line>
+        <path class="nofill" d="M 304,136 A 4,4 0,0,0 300,140"></path>
+        <line class="solid" x1="300" x2="300" y1="140" y2="164"></line>
+        <line class="solid" x1="304" x2="464" y1="136" y2="136"></line>
+        <path class="nofill" d="M 464,136 A 4,4 0,0,1 468,140"></path>
+        <line class="solid" x1="468" x2="468" y1="140" y2="164"></line>
+        <line class="solid" x1="252" x2="300" y1="152" y2="152"></line>
+        <path class="nofill" d="M 300,164 A 4,4 0,0,0 304,168"></path>
+        <line class="solid" x1="304" x2="464" y1="168" y2="168"></line>
+        <path class="nofill" d="M 468,164 A 4,4 0,0,1 464,168"></path>
+        <line class="solid" x1="748" x2="748" y1="96" y2="208"></line>
     </g>
     <g>
-        <path class="nofill" d="M 424,56 A 4,4 0,0,0 420,60"></path>
-        <line class="solid" x1="420" x2="420" y1="60" y2="84"></line>
-        <line class="solid" x1="424" x2="488" y1="56" y2="56"></line>
-        <path class="nofill" d="M 488,56 A 4,4 0,0,1 492,60"></path>
-        <line class="solid" x1="492" x2="492" y1="60" y2="84"></line>
-        <path class="nofill" d="M 420,84 A 4,4 0,0,0 424,88"></path>
-        <line class="solid" x1="424" x2="488" y1="88" y2="88"></line>
-        <path class="nofill" d="M 492,84 A 4,4 0,0,1 488,88"></path>
-        <line class="solid" x1="580" x2="580" y1="48" y2="96"></line>
-        <line class="solid" x1="492" x2="580" y1="72" y2="72"></line>
+        <path class="nofill" d="M 664,56 A 4,4 0,0,0 660,60"></path>
+        <line class="solid" x1="660" x2="660" y1="60" y2="84"></line>
+        <line class="solid" x1="664" x2="824" y1="56" y2="56"></line>
+        <path class="nofill" d="M 824,56 A 4,4 0,0,1 828,60"></path>
+        <line class="solid" x1="828" x2="828" y1="60" y2="84"></line>
+        <path class="nofill" d="M 660,84 A 4,4 0,0,0 664,88"></path>
+        <line class="solid" x1="664" x2="824" y1="88" y2="88"></line>
+        <path class="nofill" d="M 828,84 A 4,4 0,0,1 824,88"></path>
+        <line class="solid" x1="916" x2="916" y1="48" y2="96"></line>
+        <line class="solid" x1="828" x2="916" y1="72" y2="72"></line>
     </g>
     <g>
-        <line class="solid" x1="36" x2="36" y1="208" y2="256"></line>
-        <path class="nofill" d="M 128,216 A 4,4 0,0,0 124,220"></path>
-        <line class="solid" x1="124" x2="124" y1="220" y2="244"></line>
-        <line class="solid" x1="128" x2="192" y1="216" y2="216"></line>
-        <path class="nofill" d="M 192,216 A 4,4 0,0,1 196,220"></path>
-        <line class="solid" x1="196" x2="196" y1="220" y2="244"></line>
-        <line class="solid" x1="36" x2="124" y1="232" y2="232"></line>
-        <path class="nofill" d="M 124,244 A 4,4 0,0,0 128,248"></path>
-        <line class="solid" x1="128" x2="192" y1="248" y2="248"></line>
-        <path class="nofill" d="M 196,244 A 4,4 0,0,1 192,248"></path>
+        <line class="solid" x1="92" x2="92" y1="208" y2="256"></line>
+        <path class="nofill" d="M 168,216 A 4,4 0,0,0 164,220"></path>
+        <line class="solid" x1="164" x2="164" y1="220" y2="244"></line>
+        <line class="solid" x1="168" x2="328" y1="216" y2="216"></line>
+        <path class="nofill" d="M 328,216 A 4,4 0,0,1 332,220"></path>
+        <line class="solid" x1="332" x2="332" y1="220" y2="244"></line>
+        <line class="solid" x1="92" x2="164" y1="232" y2="232"></line>
+        <path class="nofill" d="M 164,244 A 4,4 0,0,0 168,248"></path>
+        <line class="solid" x1="168" x2="328" y1="248" y2="248"></line>
+        <path class="nofill" d="M 332,244 A 4,4 0,0,1 328,248"></path>
     </g>
     <g>
-        <path class="nofill" d="M 424,216 A 4,4 0,0,0 420,220"></path>
-        <line class="solid" x1="420" x2="420" y1="220" y2="244"></line>
-        <line class="solid" x1="424" x2="488" y1="216" y2="216"></line>
-        <path class="nofill" d="M 488,216 A 4,4 0,0,1 492,220"></path>
-        <line class="solid" x1="492" x2="492" y1="220" y2="244"></line>
-        <path class="nofill" d="M 420,244 A 4,4 0,0,0 424,248"></path>
-        <line class="solid" x1="424" x2="488" y1="248" y2="248"></line>
-        <path class="nofill" d="M 492,244 A 4,4 0,0,1 488,248"></path>
-        <line class="solid" x1="580" x2="580" y1="208" y2="256"></line>
-        <line class="solid" x1="492" x2="580" y1="232" y2="232"></line>
+        <path class="nofill" d="M 664,216 A 4,4 0,0,0 660,220"></path>
+        <line class="solid" x1="660" x2="660" y1="220" y2="244"></line>
+        <line class="solid" x1="664" x2="824" y1="216" y2="216"></line>
+        <path class="nofill" d="M 824,216 A 4,4 0,0,1 828,220"></path>
+        <line class="solid" x1="828" x2="828" y1="220" y2="244"></line>
+        <path class="nofill" d="M 660,244 A 4,4 0,0,0 664,248"></path>
+        <line class="solid" x1="664" x2="824" y1="248" y2="248"></line>
+        <path class="nofill" d="M 828,244 A 4,4 0,0,1 824,248"></path>
+        <line class="solid" x1="916" x2="916" y1="208" y2="256"></line>
+        <line class="solid" x1="828" x2="916" y1="232" y2="232"></line>
     </g>
 </svg>
