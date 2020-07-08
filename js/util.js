@@ -21,3 +21,11 @@ function shuffle(array) {
 function coinFlip(heads, tails) {
     return [heads, tails][Math.floor(Math.random() * 2)];
 }
+
+function ready(fn) {
+    if (document.readyState != 'loading'){
+        fn();
+    } else {
+        document.addEventListener('DOMContentLoaded', fn);
+    }
+}
